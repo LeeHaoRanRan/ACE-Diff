@@ -1,8 +1,10 @@
 # ACE-Diff
 
 ## Training
-<img width="1218" height="673" alt="image" src="https://github.com/user-attachments/assets/6bf2097b-bb4f-4267-bea1-78f79203bb97" />
+<img width="1700" height="660" alt="image" src="https://github.com/user-attachments/assets/ebc4aeb9-9bc4-4ecb-bc61-89ea9aded415" />
 
 ## Inference
-<img width="1251" height="604" alt="image" src="https://github.com/user-attachments/assets/8d77ec07-a337-4076-bdd9-2e5c1690cf8c" />
+<img width="1750" height="689" alt="image" src="https://github.com/user-attachments/assets/788018af-4684-44ba-a21d-db6849e49621" />
+
+
 
